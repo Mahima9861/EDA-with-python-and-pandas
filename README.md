@@ -1,5 +1,5 @@
 # EDA-with-python-and-pandas
- The task is to perform Exploratory Data Analysis (EDA) on a supermarket sales dataset. It will be accomplised  by completing each task in the project:  
+ Performed Exploratory Data Analysis (EDA) on a supermarket sales dataset. It was accomplised  by completing each of the following task:  
 Task 1: Initial Data Exploration 
 Task 2: Univariate Analysis 
 Task 3: Bivariate Analysis 
